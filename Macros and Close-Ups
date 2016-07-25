@@ -1,1 +1,74 @@
-
+{
+	"wallpapers": [
+		{
+			"name": "_MG_0239 (2)",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0239 (2).jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "IMG_7311",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-UpsIMG_7311.JPG",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0208 (2)",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0208 (2).jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0058",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0058.JPG",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0031",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0031.JPG",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0099",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0099.JPG",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0211 (2)",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0211 (2).jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "_MG_0220 (2)",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0220 (2).jpg",
+			"dimensions": "5184 x 3456",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "IMG_9421-1",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-UpsIMG_9421-1.jpg",
+			"dimensions": "600 x 400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "IMG_9495-6",
+			"author": "Sherry Sabatine",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-UpsIMG_9495-6.jpg",
+			"dimensions": "600 x 400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		}
+	]
+}
