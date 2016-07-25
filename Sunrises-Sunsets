@@ -1,1 +1,81 @@
-
+{
+	"wallpapers": [
+		{
+			"name": "064A3435",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3435.jpg",
+			"dimensions": "3000 x 2000",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3470",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3470.jpg",
+			"dimensions": "3000 x 2400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3461",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3461.jpg",
+			"dimensions": "3000 x 2400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3427",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3427.jpg",
+			"dimensions": "3000 x 2000",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3516-Edit",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3516-Edit.jpg",
+			"dimensions": "3000 x 2318",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3517-Edit",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3517-Edit.jpg",
+			"dimensions": "3000 x 2400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3425",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3425.jpg",
+			"dimensions": "3000 x 2400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3505",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3505.jpg",
+			"dimensions": "3000 x 2000",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3445",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3445.jpg",
+			"dimensions": "3000 x 2000",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3481",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3481.jpg",
+			"dimensions": "3000 x 2400",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		},
+		{
+			"name": "064A3416",
+			"author": "Sherry Sabatine	",
+			"url": "https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Sunrises-Sunsets064A3416.jpg",
+			"dimensions": "3000 x 2000",
+			"copyright": "Copyright © 2016 Sherry Sabatine. All rights reserved."
+		}
+	]
+}
