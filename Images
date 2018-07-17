@@ -1,36 +1,12 @@
-[
-	{
-		"name": "Algonquin in Fog",
-		"author": "Sherry Sabatine",
-		"url": "https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4137895-37571-photo-0",
-		"thumbnail": "",
-		"collections": "LANDSCAPES",
-		"downloadable": false,
-		"size": ,
-		"dimensions": "6720 × 4480",
-		"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
-	},
-	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
-	}
-]
-{
-	"wallpapers": [
-		
-		{
-			"name": "Algonquin in Fog",
-			"author": "Sherry Sabatine",
-			"url": "https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4137895-37571-photo-0",
-			"dimensions": "6720 × 4480",
-			"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
-	
-		}
-	]
-}
+[{
+	"name": "Algonquin in Fog",
+	"author": "Sherry Sabatine",
+	"url": "https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4137895-37571-photo-0",
+	"thumbnail": "",
+	"collections": "LANDSCAPES",
+	"downloadable": false,
+	"size": "",
+	"dimensions": "6720 × 4480",
+	"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
 
+}]
