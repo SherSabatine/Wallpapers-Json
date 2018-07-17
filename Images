@@ -8,81 +8,43 @@
          "locale":"en-us",
          "wallpapers":[  
             {  
-               "name":"Pup1",
+               "name":"Bleeding Rose",
                "author":"Sherry Sabatine",
-               "url":"https://1drv.ms/u/s!AjhUaNHemuHjle8mj5y5dF09ZdFtQA",
+               "url":"https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4145803-37571-photo-0",
                "thumbnail":"",
-               "collections":"Landscapes",
+               "collections":"Composite",
                "downloadable":false,
                "size":"",
-               "dimensions":"1800 x 1200",
+               "dimensions":"",
                "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
             },
             {  
-               "name":"Pup2",
+               "name":"Bose",
                "author":"Sherry Sabatine",
-               "url":"https://1drv.ms/u/s!AjhUaNHemuHjlftzsq1_XQZMUUoLzg",
+               "url":"https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4145805-37571-photo-1",
                "thumbnail":"",
-               "collections":"Abstract",
+               "collections":"Products",
                "downloadable":false,
                "size":"",
-               "dimensions":"1800 x 1200",
+               "dimensions":"",
                "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
             },
             {  
-               "name":"_MG_0208 (2)",
+               "name":"Marley",
                "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0208 (2).jpg",
-               "dimensions":"5184 x 3456",
+               "url":"https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4145806-37571-photo-2",
+               "collections":"Products",
+               "downloadable":false,
+               "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
             },
             {  
-               "name":"_MG_0058",
+               "name":"I Am Canadian",
                "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0058.JPG",
-               "dimensions":"5184 x 3456",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"_MG_0031",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0031.JPG",
-               "dimensions":"5184 x 3456",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"_MG_0099",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0099.JPG",
-               "dimensions":"5184 x 3456",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"_MG_0211 (2)",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0211 (2).jpg",
-               "dimensions":"5184 x 3456",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"_MG_0220 (2)",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-Ups_MG_0220 (2).jpg",
-               "dimensions":"5184 x 3456",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"IMG_9421-1",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-UpsIMG_9421-1.jpg",
-               "dimensions":"600 x 400",
-               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            },
-            {  
-               "name":"IMG_9495-6",
-               "author":"Sherry Sabatine",
-               "url":"https://raw.githubusercontent.com/SherSabatine/Wallpapers-Json/master/Macros%20and%20Close-UpsIMG_9495-6.jpg",
-               "dimensions":"600 x 400",
+               "url":"https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4145807-37571-photo-3",
+               "collections":"Food",
+               "downloadable":false,
+               "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
             }
          ]
