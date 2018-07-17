@@ -1,19 +1,31 @@
 {
 	"collections": [{
 		"id": "",
-		"name": "Landscapes",
-		"description": "Landscape Wallpapers",
+		"name": "Wallpapers by Sherry",
+		"description": "Everything is mine",
 		"locale": "en-us",
 
 		"wallpapers": {
-			"name": "Algonquin in Fog",
+			"name": "Pup1",
 			"author": "Sherry Sabatine",
-			"url": "https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4137895-37571-photo-0",
+			"url": "https://1drv.ms/u/s!AjhUaNHemuHjle8mj5y5dF09ZdFtQA",
 			"thumbnail": "",
 			"collections": "Landscapes",
 			"downloadable": false,
 			"size": "",
-			"dimensions": "6720 × 4480",
+			"dimensions": "1800 x 1200",
+			"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
+
+		}
+		"wallpapers": {
+			"name": "Pup2",
+			"author": "Sherry Sabatine",
+			"url": "https://1drv.ms/u/s!AjhUaNHemuHjlftzsq1_XQZMUUoLzg",
+			"thumbnail": "",
+			"collections": "Abstract",
+			"downloadable": false,
+			"size": "",
+			"dimensions": "1800 x 1200",
 			"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
 
 		}
