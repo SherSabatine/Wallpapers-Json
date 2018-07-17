@@ -1,11 +1,12 @@
 {
-	"wallpapers": [
+	"wallpapers": "Landscapes"[
 {
 	"name": "Algonquin in Fog",
 	"author": "Sherry Sabatine",
 	"url": "https://sherrysabatinephotography.files.wordpress.com/2018/07/algonquin-in-fog.jpg",
 	"thumbnail": "",
-	"collections": "",
+	"collections": "Landscapes
+	",
 	"downloadable": false,
 	"size": "",
 	"dimensions": "6720 × 4480",
