@@ -1,17 +1,21 @@
 {
-	"wallpapers": "Landscapes"[
-{
-	"name": "Algonquin in Fog",
-	"author": "Sherry Sabatine",
-	"url": "https://sherrysabatinephotography.files.wordpress.com/2018/07/algonquin-in-fog.jpg",
-	"thumbnail": "",
-	"collections": "Landscapes
-	",
-	"downloadable": false,
-	"size": "",
-	"dimensions": "6720 × 4480",
-	"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved"
+	"category": [{
+		"id": "",
+		"name": "Landscapes",
+		"description": "Landscape Wallpapers",
+		"locale": "en-us",
 
-}
-]
+		"wallpapers": {
+			"name": "Algonquin in Fog",
+			"author": "Sherry Sabatine",
+			"url": "https://www.ssabatinephotography.com/site/wallpapers-by-sherry/landscapes/4137895-37571-photo-0",
+			"thumbnail": "",
+			"collections": "Landscapes",
+			"downloadable": false,
+			"size": "",
+			"dimensions": "6720 × 4480",
+			"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved."
+
+		}
+	}]
 }
