@@ -1,4 +1,5 @@
-[
+{
+	"wallpapers": [
 {
 	"name": "Algonquin in Fog",
 	"author": "Sherry Sabatine",
@@ -11,4 +12,5 @@
 	"copyright": "Copyright ©2018 Sherry Sabatine. All rights reserved"
 
 }
-];
+]
+]
