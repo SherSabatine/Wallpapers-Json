@@ -1,11 +1,6 @@
 
 {  
-   "collections":[  
-      {  
-         "id":"",
-         "name":"Wallpapers by Sherry",
-         "description":"Everything is mine",
-         "locale":"en-us",
+ 
          "wallpapers":[  
             {  
                "name":"I Am Canadian",
@@ -52,5 +47,5 @@
             }
          ]
       }
-   ]
-}
+   
+
