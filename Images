@@ -50,7 +50,6 @@
                "url":"https://c1.staticflickr.com/1/833/28684782787_f14f652b94_o.jpg",
                "thumbnail":"https://c1.staticflickr.com/1/833/28684782787_545b5fc54c.jpg",
                "collections": "Landscapes",
-			            "category": "Sunsets",
                "downloadable":false,
                "size":"",
                "dimensions":"",
@@ -60,9 +59,8 @@
                "name":"Leamington Storm",
                "author":"Sherry Sabatine",
                "url":"https://c1.staticflickr.com/1/851/42666889705_79a4ab92d1_o.jpg",
-               "thumbnail":"",
+               "thumbnail":"https://c1.staticflickr.com/1/851/42666889705_0636b2d4c3.jpg",
                "collections": "Landscapes",
-			            "category": "Sunsets",
                "downloadable":false,
                "size":"",
                "dimensions":"",
@@ -74,7 +72,6 @@
                "url":"https://c2.staticflickr.com/2/1784/28684781307_26cd943b28_o.jpg",
                "thumbnail":"https://c2.staticflickr.com/2/1784/28684781307_66298ebc77.jpg",
                "collections": "Landscapes",
-			            "category": "Sunsets",
                "downloadable":false,
                "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
@@ -85,11 +82,93 @@
                "url":"https://c2.staticflickr.com/2/1808/42666888655_64e0d56e77_o.jpg",
                "thumbnail":"https://c2.staticflickr.com/2/1808/42666888655_2cffc46b9b.jpg",
                "collections": "Landscapes",
-			            "category": "Sunsets",
                "downloadable":false,
                "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            }
+            },
+	     {  
+               "name":"Mahone Bay",
+               "author":"Sherry Sabatine",
+               "url":"https://c2.staticflickr.com/2/1809/28684779937_dc3de31e75_o.jpg",
+               "thumbnail":"https://c2.staticflickr.com/2/1809/28684779937_aa723315e4.jpg",
+               "collections":"Canadian",
+               "downloadable":false,
+               "size":"",
+               "dimensions":"",
+               "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Tied Off",
+               "author":"Sherry Sabatine",
+               "url":"https://c1.staticflickr.com/1/939/29701186498_6527958323_o.jpg",
+               "thumbnail":"https://c1.staticflickr.com/1/939/29701186498_22f9b7950e.jpg",
+               "collections":"Product",
+               "downloadable":false,
+               "size":"",
+               "dimensions":"",
+               "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Sunrise Over Lurenburg",
+               "author":"Sherry Sabatine",
+               "url":"https://c2.staticflickr.com/2/1828/42854260424_4881f82a45_o.jpg",
+               "thumbnail":"https://c2.staticflickr.com/2/1828/42854260424_fecf0b135b.jpg",
+               "collections":"Product",
+               "downloadable":false,
+               "dimensions":"",
+               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Port Stanley Upside Down in the Fog",
+               "author":"Sherry Sabatine",
+               "url":"https://c2.staticflickr.com/2/1825/42854263684_2fa90b451f_o.jpg",
+               "thumbnail":"https://c2.staticflickr.com/2/1825/42854263684_7627caf84e.jpg",
+               "collections":"Food",
+               "downloadable":false,
+               "dimensions":"",
+               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
+            },
+             {  
+               "name":"Peggy's Cove Coastline",
+               "author":"Sherry Sabatine",
+               "url":"https://c1.staticflickr.com/1/840/29701189168_7e4ece62a3_o.jpg",
+               "thumbnail":"https://c1.staticflickr.com/1/840/29701189168_b79f115cd4.jpg",
+               "collections": "Landscapes",
+               "downloadable":false,
+               "size":"",
+               "dimensions":"",
+               "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Peggy's Cove Coastline 2",
+               "author":"Sherry Sabatine",
+               "url":"https://c1.staticflickr.com/1/913/29701190298_78e8493729_o.jpg",
+               "thumbnail":"https://c1.staticflickr.com/1/913/29701190298_a6a8133269.jpg",
+               "collections": "Landscapes",
+               "downloadable":false,
+               "size":"",
+               "dimensions":"",
+               "copyright":"Copyright ©2018 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Fishing into the Sunset",
+               "author":"Sherry Sabatine",
+               "url":"https://c2.staticflickr.com/2/1769/29701193698_7413ff8a89_o.jpg",
+               "thumbnail":"https://c2.staticflickr.com/2/1769/29701193698_ca67c0b0a6.jpg",
+               "collections": "Landscapes",
+               "downloadable":false,
+               "dimensions":"",
+               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
+            },
+            {  
+               "name":"Algonquin in Fog",
+               "author":"Sherry Sabatine",
+               "url":"https://c2.staticflickr.com/2/1786/42666887865_88119aaeb4_o.jpg",
+               "thumbnail":"https://c2.staticflickr.com/2/1786/42666887865_13eeefbf1f.jpg",
+               "collections": "Landscapes",
+               "downloadable":false,
+               "dimensions":"",
+               "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
          ]
       }
    
