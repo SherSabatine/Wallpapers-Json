@@ -43,13 +43,14 @@
                "downloadable":false,
                "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
-            }
+            },
              {  
                "name":"Lake Huron Sunset",
                "author":"Sherry Sabatine",
                "url":"https://c1.staticflickr.com/1/833/28684782787_f14f652b94_o.jpg",
                "thumbnail":"https://c1.staticflickr.com/1/833/28684782787_545b5fc54c.jpg",
-               "collections":"Landscapes";"Sunsets",
+               "collections": "Landscapes",
+			            "category": "Sunsets",
                "downloadable":false,
                "size":"",
                "dimensions":"",
@@ -60,7 +61,8 @@
                "author":"Sherry Sabatine",
                "url":"https://c1.staticflickr.com/1/851/42666889705_79a4ab92d1_o.jpg",
                "thumbnail":"",
-               "collections":"Landscapes";"Sunsets",
+               "collections": "Landscapes",
+			            "category": "Sunsets",
                "downloadable":false,
                "size":"",
                "dimensions":"",
@@ -71,7 +73,8 @@
                "author":"Sherry Sabatine",
                "url":"https://c2.staticflickr.com/2/1784/28684781307_26cd943b28_o.jpg",
                "thumbnail":"https://c2.staticflickr.com/2/1784/28684781307_66298ebc77.jpg",
-               "collections":"Landscapes";"Sunsets",
+               "collections": "Landscapes",
+			            "category": "Sunsets",
                "downloadable":false,
                "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
@@ -81,7 +84,8 @@
                "author":"Sherry Sabatine",
                "url":"https://c2.staticflickr.com/2/1808/42666888655_64e0d56e77_o.jpg",
                "thumbnail":"https://c2.staticflickr.com/2/1808/42666888655_2cffc46b9b.jpg",
-               "collections":"Landscapes";"Sunsets",
+               "collections": "Landscapes",
+			            "category": "Sunsets",
                "downloadable":false,
                "dimensions":"",
                "copyright":"Copyright © 2016 Sherry Sabatine. All rights reserved."
